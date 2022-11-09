@@ -1,0 +1,16 @@
+html
+css
+js
+
+Web page구현
+
+- Main Page - 회원가입페이지와 contact 페이지로 연결되는 버튼 추가(오른쪽 상단)
+- Login Page - 색깔만 조금 수정 
+- Sigin Page - 탬플릿 찾아서 main page에 맞게 디자인 수정
+- purchased List 
+- to contact - 받은 탬플릿 디자인 수정
+
+________
+- goods info
+
+https://html.design/blog/top-10-free-ecommerce-website-templates-2020/
